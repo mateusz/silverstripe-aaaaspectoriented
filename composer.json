@@ -1,0 +1,12 @@
+{
+	"name": "mateusz/silverstripe-aaaaspectoriented",
+	"description": "A bridge into the go-aop-php library for aspect-oriented programming in PHP.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "aop", "php", "aspect"],
+	"license": "MIT",
+	"require": {
+		"silverstripe/framework": "~3.1",
+		"lisachenko/go-aop-php": "*"
+	}
+}
+
