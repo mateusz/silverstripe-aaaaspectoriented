@@ -1,5 +1,5 @@
 {
-	"name": "mateusz/silverstripe-aaaaspectoriented",
+	"name": "mateusz/aaaaspectoriented",
 	"description": "A bridge into the go-aop-php library for aspect-oriented programming in PHP.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "aop", "php", "aspect"],
